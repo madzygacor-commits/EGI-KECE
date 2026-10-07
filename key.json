@@ -24,6 +24,13 @@
       "isBanned": false,
       "banReason": "MAKANYA JANGAN BANDEL",
       "userRank": "Supreme User"
+    },
+    "egi": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-08",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
