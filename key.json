@@ -42,7 +42,7 @@
     "gimods-C1VCDR": {
       "hwid": "RESET",
       "expireDate": "2026-11-06",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
