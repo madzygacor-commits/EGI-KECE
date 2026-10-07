@@ -42,9 +42,9 @@
       "userRank": "Supreme User"
     },
     "GIMods-VTVNFB": {
-      "hwid": "WOWOWOOWO",
+      "hwid": "RESET",
       "expireDate": "2026-10-08",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
