@@ -31,6 +31,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-TLDKMA": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-08",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
