@@ -21,8 +21,8 @@
     "EGIMods-123": {
       "hwid": "RESET",
       "expireDate": "2026-10-08",
-      "isBanned": false,
-      "banReason": "",
+      "isBanned": true,
+      "banReason": "ban ban ban",
       "userRank": "Supreme User"
     }
   }
